@@ -1,0 +1,19 @@
+{
+  "name": "musicfindercnx",
+  "description": "Hackathon Music Finder CNX",
+  "authors": [
+    "ehudthelefthand <peerawat.poombua@odb.org>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rbatzing/musicfindercnx",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}

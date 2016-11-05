@@ -29,7 +29,7 @@
 
 </head>
 
-<body id="page-top" class="index">
+<body ng-app="MusicFinder" id="page-top" class="index">
 
     <!-- Navigation -->
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom affix-top">
@@ -290,7 +290,7 @@
     </div>
 
     <!-- Portfolio Modals -->
-    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+    <div ng-controller="MoodController" class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -331,7 +331,10 @@
     <!-- Theme JavaScript -->
     <script src="./theme_files/freelancer.min.js.download"></script>
 
+    <!-- Angular -->
+    <script src="bower_components/angular/angular.min.js"></script>>
+
     <!-- Application -->
-    <script src="./javascripts/main.js"></script>
+    <script src="./javascripts/app.js"></script>
 
 </body></html>
