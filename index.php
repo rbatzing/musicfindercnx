@@ -17,7 +17,8 @@
     <!-- Custom Fonts -->
     <link href="./theme_files/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="./theme_files/css" rel="stylesheet" type="text/css">
-    <link href="./theme_files/css(1)" rel="stylesheet" type="text/css">
+    <link href="./theme_files/css1" rel="stylesheet" type="text/css">
+    <link href="./stylesheets/main.css" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
