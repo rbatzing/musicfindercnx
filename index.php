@@ -92,14 +92,28 @@
             <div class="row">
                 <!-- <div class="col-sm-4 portfolio-item"> -->
                 <div class="portfolio-item">
-                    <a href="https://blackrockdigital.github.io/startbootstrap-freelancer/#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
+                                            <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="./theme_files/logo.png" class="img-responsive" alt="">
-                    </a>
+                        <img src="./theme_files/logo.png" class="img-responsive" alt=""
+                        width="900" height="650" border="0"  usemap="#emotionmap">
+<map name="emotionmap">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:Robert  -->
+<area shape="circle" coords="126,233,87" href="smile" alt="SMILE" />
+<area shape="circle" coords="348,234,89" href="happy" alt="HAPPY"/>
+<area shape="circle" coords="566,235,89" href="angry" alt="ANGRY"/>
+<area shape="circle" coords="775,237,89" href="confused" alt="CONFUSED"/>
+<area shape="circle" coords="128,435,85" href="disgusted" alt="DISGUSTED"/>
+<area shape="circle" coords="353,434,90" href="lost" alt="LOST"/>
+<area shape="circle" coords="566,437,86" href="afraid" alt="AFRAID" />
+<area shape="circle" coords="777,436,87" href="inlove" alt="inLOVE" />
+</map>
                 </div>
                 <!-- <div class="col-sm-4 portfolio-item">
                     <a href="https://blackrockdigital.github.io/startbootstrap-freelancer/#portfolioModal2" class="portfolio-link" data-toggle="modal">
