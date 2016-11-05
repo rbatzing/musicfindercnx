@@ -39,7 +39,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="https://blackrockdigital.github.io/startbootstrap-freelancer/#page-top">Start Bootstrap</a>
+                <a class="navbar-brand" href="https://blackrockdigital.github.io/startbootstrap-freelancer/#page-top">EXPLORE</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -71,7 +71,7 @@
                 <div class="col-lg-12">
                     <img class="img-responsive" src="./theme_files/profile.png" alt="">
                     <div class="intro-text">
-                        <span class="name">Start Bootstrap</span>
+                        <span class="name">#MUSICFINDER</span>
                         <hr class="star-light">
                         <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
                     </div>
