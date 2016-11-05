@@ -331,7 +331,7 @@
     <!-- Theme JavaScript -->
     <script src="./theme_files/freelancer.min.js.download"></script>
 
-
-
+    <!-- Application -->
+    <script src="./javascripts/main.js"></script>
 
 </body></html>
