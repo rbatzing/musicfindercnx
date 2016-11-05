@@ -49,7 +49,7 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio">Features</a>
+                        <a href="#portfolio">Menu</a>
                     </li>
                     <li class="page-scroll">
                         <a href="#about">About</a>
@@ -85,7 +85,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Features</h2>
+                    <h2>Menu</h2>
                     <hr class="star-primary">
                 </div>
             </div>
@@ -98,7 +98,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="./theme_files/cabin.png" class="img-responsive" alt="">
+                        <img src="./theme_files/logo.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <!-- <div class="col-sm-4 portfolio-item">
