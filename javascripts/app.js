@@ -3,8 +3,11 @@
 
   angular.module("MusicFinder", [])
     .controller("MoodController", function($scope) {
-      $scope.mood = {};
+      $scope.moods = [ "Happy", "Sad", "Angry" ];
 
+      $scope.getSongs = function() {
+        alert("I'm searching!");
+      };
     });
 
 }());

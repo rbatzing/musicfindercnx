@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- saved from url=(0062)https://blackrockdigital.github.io/startbootstrap-freelancer/# -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -39,7 +38,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="https://blackrockdigital.github.io/startbootstrap-freelancer/#page-top">Music Finder CNX</a>
+                <a class="navbar-brand" href="#page-top">Music Finder CNX</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -90,19 +89,26 @@
                 </div>
             </div>
             <div class="row">
-                <!-- <div class="col-sm-4 portfolio-item"> -->
-                <div class="portfolio-item">
-                    <a href="https://blackrockdigital.github.io/startbootstrap-freelancer/#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="./theme_files/logo.png" class="img-responsive" alt="">
-                    </a>
-                </div>
+                <img src="./theme_files/logo.png" class="img-responsive center-block" alt=""
+                width="900" height="650" border="0"  usemap="#emotionmap">
+                <map name="emotionmap">
+                    <!-- #$-:Image map file created by GIMP Image Map plug-in -->
+                    <!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+                    <!-- #$-:Please do not edit lines starting with "#$" -->
+                    <!-- #$VERSION:2.3 -->
+                    <!-- #$AUTHOR:Robert  -->
+                    <area shape="circle" coords="126,233,87" href="smile" alt="SMILE" />
+                    <area shape="circle" coords="348,234,89" href="happy" alt="HAPPY"/>
+                    <area shape="circle" coords="566,235,89" href="angry" alt="ANGRY"/>
+                    <area shape="circle" coords="775,237,89" href="confused" alt="CONFUSED"/>
+                    <area shape="circle" coords="128,435,85" href="disgusted" alt="DISGUSTED"/>
+                    <area shape="circle" coords="353,434,90" href="lost" alt="LOST"/>
+                    <area shape="circle" coords="566,437,86" href="afraid" alt="AFRAID" />
+                    <area shape="circle" coords="777,436,87" href="inlove" alt="inLOVE" />
+                </map>
+            </div>
                 <!-- <div class="col-sm-4 portfolio-item">
-                    <a href="https://blackrockdigital.github.io/startbootstrap-freelancer/#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -112,7 +118,7 @@
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
-                    <a href="https://blackrockdigital.github.io/startbootstrap-freelancer/#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -122,7 +128,7 @@
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
-                    <a href="https://blackrockdigital.github.io/startbootstrap-freelancer/#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -132,7 +138,7 @@
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
-                    <a href="https://blackrockdigital.github.io/startbootstrap-freelancer/#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -142,7 +148,7 @@
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
-                    <a href="https://blackrockdigital.github.io/startbootstrap-freelancer/#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -172,7 +178,7 @@
                     <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="https://blackrockdigital.github.io/startbootstrap-freelancer/#" class="btn btn-lg btn-outline">
+                    <a href="#" class="btn btn-lg btn-outline">
                         <i class="fa fa-download"></i> Download Theme
                     </a>
                 </div> -->
@@ -248,19 +254,19 @@
                         <h3>Around the Web</h3>
                         <ul class="list-inline">
                             <li>
-                                <a href="https://blackrockdigital.github.io/startbootstrap-freelancer/#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                             </li>
                             <li>
-                                <a href="https://blackrockdigital.github.io/startbootstrap-freelancer/#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
+                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
                             </li>
                             <li>
-                                <a href="https://blackrockdigital.github.io/startbootstrap-freelancer/#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
                             </li>
                             <li>
-                                <a href="https://blackrockdigital.github.io/startbootstrap-freelancer/#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
                             </li>
                             <li>
-                                <a href="https://blackrockdigital.github.io/startbootstrap-freelancer/#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
+                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -284,7 +290,7 @@
 
     <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
     <div class="scroll-top page-scroll hidden-sm hidden-xs hidden-lg hidden-md">
-        <a class="btn btn-primary" href="https://blackrockdigital.github.io/startbootstrap-freelancer/#page-top">
+        <a class="btn btn-primary" href="#page-top">
             <i class="fa fa-chevron-up"></i>
         </a>
     </div>
@@ -307,7 +313,15 @@
                             <!-- <img src="./theme_files/cabin.png" class="img-responsive img-centered" alt=""> -->
                             <p>Let's search some music for the right mood!</p>
 
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            <form ng-controller="MoodController" ng-submit="getSongs()">
+                                <div class="form-group">
+                                    <select class="form-control">
+                                        <option ng-repeat="mood in moods">{{ mood }}</option>
+                                    </select>
+                                </div>
+                                <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                                <button type="submit" class="btn btn-default">Submit</button>
+                            </form>
                         </div>
                     </div>
                 </div>
@@ -332,7 +346,7 @@
     <script src="./theme_files/freelancer.min.js.download"></script>
 
     <!-- Angular -->
-    <script src="bower_components/angular/angular.min.js"></script>>
+    <script src="./bower_components/angular/angular.min.js"></script>
 
     <!-- Application -->
     <script src="./javascripts/app.js"></script>
