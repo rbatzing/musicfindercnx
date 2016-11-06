@@ -103,8 +103,8 @@
                     <area shape="circle" coords="775,237,89" href="#confused" alt="CONFUSED" title="CONFUSED"/>
                     <area shape="circle" coords="128,435,85" href="#disgusted" alt="CONFUSED" title="CONFUSED"/>
                     <area shape="circle" coords="353,434,90" href="#lost" alt="LOST" title="LOST"/>
-                    <area shape="circle" coords="566,437,86" href="#afraid" alt="AFRAID"title="AFRAID" />
-                    <area shape="circle" coords="777,436,87" href="#inlove" alt="inLOVE"title="inLOVE" />
+                    <area shape="circle" coords="566,437,86" href="#afraid" alt="AFRAID" title="AFRAID" />
+                    <area shape="circle" coords="777,436,87" href="#inlove" alt="inLOVE" title="inLOVE" />
                 </map>
             </div>
                 <!-- <div class="col-sm-4 portfolio-item">
