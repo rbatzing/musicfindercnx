@@ -97,12 +97,12 @@
                     <!-- #$-:Please do not edit lines starting with "#$" -->
                     <!-- #$VERSION:2.3 -->
                     <!-- #$AUTHOR:Robert  -->
-                    <area shape="circle" coords="126,233,87" href="#smile" alt="SMILE" title="SMILE" />
+                    <area shape="circle" coords="126,233,87" href="#content" alt="CONTENT" title="CONTENT" />
                     <area shape="circle" coords="348,234,89" href="#happy" alt="HAPPY" title="HAPPY"/>
                     <area shape="circle" coords="566,235,89" href="#angry" alt="ANGRY" title="ANGRY"/>
                     <area shape="circle" coords="775,237,89" href="#confused" alt="CONFUSED" title="CONFUSED"/>
-                    <area shape="circle" coords="128,435,85" href="#disgusted" alt="CONFUSED" title="CONFUSED"/>
-                    <area shape="circle" coords="353,434,90" href="#lost" alt="LOST" title="LOST"/>
+                    <area shape="circle" coords="128,435,85" href="#disgusted" alt="DISGUSTED" title="DISGUISTED"/>
+                    <area shape="circle" coords="353,434,90" href="#lost" alt="LOST/DISCOURAGED" title="LOST/DISCOURAGED"/>
                     <area shape="circle" coords="566,437,86" href="#afraid" alt="AFRAID" title="AFRAID" />
                     <area shape="circle" coords="777,436,87" href="#inlove" alt="inLOVE" title="inLOVE" />
                 </map>
